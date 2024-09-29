@@ -7,15 +7,16 @@ module.exports.countries = [
 	['Nationalist China', 3000, 130, 15, 0, 'Major Powers', '🇹🇼'],
 	['Communist China', 2100, 180, 15, 0, 'Major Powers', '🇨🇳'],
 	
+	['Japan', 2500, 0, 0, 0, 'Regional Powers', '🇯🇵']
 	['British Raj', 2100, 48, 3, 0, 'Regional Powers', '🇮🇳']
-	['Italy', 3000, 36, 15, 0, 'Regional Powers', '🇮🇹'],
+	['Italy', 2000, 36, 15, 0, 'Regional Powers', '🇮🇹'],
 	['Australia', 1700, 12, 2, 0, 'Regional Powers', '🇦🇺'],
 	['Brazil', 1700, 24, 1, 0, 'Regional Powers', '🇧🇷'],
 	['Argentina', 1400, 18, 1, 0, 'Regional Powers', '🇦🇷'],
 	['Mexico', 1200, 12, 1, 0, 'Regional Powers', '🇲🇽'],
 	['Turkey', 1500, 30, 6, 0, 'Regional Powers', '🇹🇷'],
-	['Spain', 1500, 18, 1, 0, 'Regional Powers', '🇪🇸'],
-	['Sweden', 900, 18, 2, 0, 'Regional Powers', '🇸🇪'],
+	['Spain', 1000, 18, 1, 0, 'Regional Powers', '🇪🇸'],
+	['Sweden', 1500, 18, 2, 0, 'Regional Powers', '🇸🇪'],
 	['Poland', 1500, 36, 10, 0, 'Regional Powers', '🇵🇱'],
 	['Yugoslavia', 1000, 50, 10, 0, 'Regional Powers', '🇷🇸'],
 	['South Africa', 1000, 12, 0, 0, 'Regional Powers', '🇿🇦'],
@@ -41,6 +42,8 @@ module.exports.countries = [
 	['Egypt', 500, 12, 0, 0, 'Minor Powers', '🇪🇬'],
 	['Syria', 400, 6, 0, 0, 'Minor Powers', '🇸🇾'],
 	['Iraq', 500, 6, 0, 0, 'Minor Powers', '🇮🇶'],
+	['North Korea', 600, 0, 0, 0, 'Minor Powers', '🇰🇵'],
+	['South Korea', 600, 0, 0, 0, 'Minor Powers', '🇰🇷'],
 	['Indonesia', 700, 50, 0, 0, 'Minor Powers', '🇮🇩'],
 	['Vietnam', 400, 30, 0, 0, 'Minor Powers', '🇻🇳'],
 	['Cuba', 300, 6, 0, 0, 'Minor Powers', '🇨🇺'],
