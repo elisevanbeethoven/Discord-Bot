@@ -4,8 +4,8 @@ module.exports.countries = [
 	
 	['United Kingdom', 4800, 160, 30, 0, 'Major Powers', '🇬🇧'],
 	['France', 4400, 120, 25, 0, 'Major Powers', '🇫🇷'],
-	['Nationalist China', 2400, 130, 15, 0, 'Major Powers', '🇹🇼'],
-	['Communist China', 1800, 180, 15, 0, 'Major Powers', '🇨🇳'],
+	['Nationalist China', 2600, 130, 15, 0, 'Major Powers', '🇹🇼'],
+	['Communist China', 2200, 180, 15, 0, 'Major Powers', '🇨🇳'],
 	
 	['British Raj', 2400, 48, 3, 0, 'Regional Powers', '🇮🇳'],
 	['Japan', 3800, 5, 0, 0, 'Regional Powers', '🇯🇵'],
